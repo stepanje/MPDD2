@@ -1,5 +1,7 @@
-# MPDD2
-Metal Parts Defect Detection Dataset 2
+# Metal Parts Defect Detection Dataset 2 (MPDD2)
+
+
+MPDD2 is a dataset aimed at benchmarking visual defect detection methods in industrial metal parts manufacturing. It consists of more than 700 images, which are divided into the training subset with anomaly-free samples and the validation subset that contains both normal and anomalous samples. The dataset can be downloaded at the following link.
 
 <a id="raw-url" href="https://drive.google.com/drive/folders/1KAJfPPuusS4fEbPocHtIjLehCkpSEUSS?usp=sharing">Download link</a>
 
