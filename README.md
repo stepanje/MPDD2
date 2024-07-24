@@ -25,7 +25,7 @@ If you use the dataset in this repository, please cite
 }
 ```
 
-## Contant to authors
+## Contact to authors
 Stepan Jezek: <a href="mailto:Stepan.Jezek1@vut.cz">Stepan.Jezek1@vut.cz</a>
 Radim Burget: <a href="mailto:burgetrm@vutbr.cz">burgetrm@vut.cz</a>
 
